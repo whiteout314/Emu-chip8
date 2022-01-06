@@ -1,0 +1,16 @@
+Bugs
+----
+
+Test
+----
+[ ] Test for opcode, instruction function
+[ ] Test for keyboard input and interaction with the Chip 8 virtual machine
+
+Functionalities
+----------------
+[ ] Add ALU CPU functionalities to the virutal machine
+[ ] Add GPU functionalities to the virtual machine
+[ ] Add user input and sound to the virutal machine
+
+Updates
+--------
