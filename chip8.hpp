@@ -32,7 +32,7 @@ class Chip {
        //VARIABLES
         uint8_t v[0xF];
         uint16_t I;  //This is generally used to store memory adresses
-        uint16_t pc = 512; //program counter
+        uint16_t pc; //program counter
         uint8_t  sp; // This is the stack pointer
         uint16_t stack[16];        
         uint8_t delayTimer;
